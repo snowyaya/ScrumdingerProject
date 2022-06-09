@@ -17,6 +17,7 @@
 		7CB413F726EAC76E00544BA7 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CB413F626EAC76E00544BA7 /* TrailingIconLabelStyle.swift */; };
 		7CB413F926EB9A1A00544BA7 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CB413F826EB9A1A00544BA7 /* ScrumsView.swift */; };
 		7CB413FB26EBAB0B00544BA7 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CB413FA26EBAB0B00544BA7 /* DetailView.swift */; };
+		9BBCBFF42850F16E000760A4 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBCBFF32850F16E000760A4 /* DetailEditView.swift */; };
 		AA0F3C5527208DC500945F09 /* SampleCode.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = AA0F3C5127208DC500945F09 /* SampleCode.xcconfig */; };
 		AA0F3C5627208DC500945F09 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AA0F3C5227208DC500945F09 /* README.md */; };
 		AA0F3C5727208DC500945F09 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = AA0F3C5427208DC500945F09 /* LICENSE.txt */; };
@@ -34,6 +35,7 @@
 		7CB413F626EAC76E00544BA7 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		7CB413F826EB9A1A00544BA7 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		7CB413FA26EBAB0B00544BA7 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		9BBCBFF32850F16E000760A4 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 		AA0F3C5127208DC500945F09 /* SampleCode.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = SampleCode.xcconfig; sourceTree = "<group>"; };
 		AA0F3C5227208DC500945F09 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AA0F3C5427208DC500945F09 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				7CB413E026EA824100544BA7 /* MeetingView.swift */,
 				7CB413F826EB9A1A00544BA7 /* ScrumsView.swift */,
 				7CB413F626EAC76E00544BA7 /* TrailingIconLabelStyle.swift */,
+				9BBCBFF32850F16E000760A4 /* DetailEditView.swift */,
 				7CB413E226EA824300544BA7 /* Assets.xcassets */,
 				7CB413E426EA824300544BA7 /* Preview Content */,
 			);
@@ -193,6 +196,7 @@
 			files = (
 				7CB413F326EABF1D00544BA7 /* DailyScrum.swift in Sources */,
 				7CB413FB26EBAB0B00544BA7 /* DetailView.swift in Sources */,
+				9BBCBFF42850F16E000760A4 /* DetailEditView.swift in Sources */,
 				7CB413F726EAC76E00544BA7 /* TrailingIconLabelStyle.swift in Sources */,
 				7CB413F126EA97C500544BA7 /* Theme.swift in Sources */,
 				7CB413F926EB9A1A00544BA7 /* ScrumsView.swift in Sources */,
